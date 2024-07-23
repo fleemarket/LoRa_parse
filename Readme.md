@@ -20,3 +20,7 @@ pip install -r requirement.txt를 통해서 설치하세요.
 ### v0.0.2
 
 파일명 저장 방식 변경 (센서넘버_연월일시분초)로 바꿈
+
+### v0.0.3 
+
+json 파일을 읽어 파싱하여 csv로 반환하는 파일 추가(LoraParse_json)
