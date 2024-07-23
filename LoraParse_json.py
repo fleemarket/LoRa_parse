@@ -1,7 +1,8 @@
 import json
 import csv
 
-file_name = "parse.json"
+file_name = "*.json"
+# 파일 이름 입력
 extract_temp = []
 extract_humid = []
 
