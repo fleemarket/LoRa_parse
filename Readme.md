@@ -24,3 +24,8 @@ pip install -r requirement.txt를 통해서 설치하세요.
 ### v0.0.3 
 
 json 파일을 읽어 파싱하여 csv로 반환하는 파일 추가(LoraParse_json)
+
+### v0.1.0
+
+Base64 데이터를 디코딩하고 십진법 수로 바꾸는 파일 (baseParse.js) 추가, 
+해당 파일은 js 환경상에서 사용할 목적으로 추가 됨. 
